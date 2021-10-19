@@ -13,6 +13,7 @@ Of course, you'll also need to have
 
 # Create a React app
 
+Run the following commands to create an example React project:
 ```
 npm install create-react-app
 npx create-react-app myapp
