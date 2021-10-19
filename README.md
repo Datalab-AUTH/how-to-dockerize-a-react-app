@@ -8,6 +8,9 @@ React. You could probably easily adapt it to other frameworks.
 You'll need to have node.js installed, with a working `npm`. You'll
 also need to run the following commands into a terminal.
 
+Of course, you'll also need to have
+[Docker](https://docs.docker.com/engine/install/) installed.
+
 # Create a React app
 
 ```
