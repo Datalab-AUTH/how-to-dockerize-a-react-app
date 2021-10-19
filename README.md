@@ -77,7 +77,7 @@ If you don't provide a name with the `--name` option, docker will
 assign a random one.
 
 At this point your app should be available from your host system at
-http://127.0.0.1:5001/
+http://127.0.0.1:3000/
 
 With this setup, you should be able to rebuild and run your dockerized
 app in any system that supports docker without having to worry about
