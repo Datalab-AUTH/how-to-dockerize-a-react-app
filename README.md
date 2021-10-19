@@ -1,6 +1,6 @@
 # About
 
-This a tutorial on how to dockerize a front-end application make with
+This is a tutorial on how to dockerize a front-end application make with
 React. You could probably easily adapt it to other frameworks.
 
 # Prerequisites
